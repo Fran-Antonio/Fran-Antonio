@@ -1,17 +1,42 @@
-<h1 align="center">Olá 👋, eu sou o Antônio</h1>
-<h3 align="center">Um desenvolvedor frontend apaixonado da Índia</h3>
+```markdown
+# 👋 Olá, eu sou o Antônio
 
-- 🌱 Atualmente estou aprendendo **Análise e Desenvolvimento de Sistemas**
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e em constante aprendizado.  
+Atualmente focado em **JavaScript** e **React**, mas também explorando **Node.js** e conceitos de banco de dados.
 
-- 📫 Como entrar em contato comigo: **fcantoniocosta@gmail.com**
+---
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-</p>
+## 🚀 Tecnologias que estudo e utilizo
 
-<h3 align="left">Idiomas e Ferramentas:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" altura="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Node.js, Express  
+- **Banco de Dados:** SQLite, MySQL  
+- **Outras ferramentas:** Git, GitHub, Postman  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fra-antonio&show_icons=true&locale=en&layout=compact" alt="fra-antonio" /></p>
+---
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=fra-antonio&show_icons=true&locale=en" alt="fra-antonio" /></p>
+## 📂 Projetos em destaque
+
+- **Controle de Estoque Laboratorial** → Sistema para registrar entradas e saídas de produtos, com alertas de validade.  
+- **Formulário de Cadastro** → Cadastro de usuários com validação e armazenamento local.  
+- **Aplicações em React** → Formulário de livros e pequenos projetos práticos.
+
+*(Veja mais projetos nos repositórios fixados abaixo 👇)*
+
+---
+
+## 🎯 Objetivos atuais
+
+- Aprimorar minha lógica de programação.  
+- Evoluir em React e Node.js com projetos práticos.  
+- Construir um portfólio sólido no GitHub.  
+
+---
+
+## 📫 Contato
+
+- Email: **fcantoniocosta@gmail.com**  
+- LinkedIn: *(adicione aqui se quiser)*  
+
+---
+```
